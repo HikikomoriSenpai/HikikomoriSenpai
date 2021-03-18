@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 色々と試したい遊び場です。
+>初心者です
 <!--
 **HikikomoriSenpai/HikikomoriSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
